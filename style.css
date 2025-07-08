@@ -2,3 +2,9 @@ body {
     background: #121214 url(./assets/bg.jpg) no-repeat top center / 100% auto;
     color: white;
 }
+
+body *, :root {
+    font-family:  "Inter";
+line-height: 160%;
+
+}
