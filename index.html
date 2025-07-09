@@ -24,18 +24,18 @@
         <p>Pergunte sobre estratégias, build e dicas para seus jogos!</p>
 
 <form>
-    <input type="password" placeholder="Informe a API KEY do Gemini" required>
+    <input id="apiKey" type="password" placeholder="Informe a API KEY do Gemini" required>
 
-    <select>
+    <select id="gameSelect">
 <option value="">Selecione um jogo</option>
 <option value="valorant">Valorant</option>
 <option value="lol">League of Legends</option>
 <option value="csgo">CS:GO</option>
     </select>
 
-    <input type="text" placeholder="EX: melhor build para ADC ..." required>
+    <input id="questionInput" type="text" placeholder="EX: melhor build para ADC ..." required>
 
-    <button>
+    <button id="askButton">
         Perguntar
     </button>
 </form>
