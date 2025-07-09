@@ -102,10 +102,31 @@ transition: all 300ms;
 
 }
 
+#aiResponse {
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 0.5rem;
+    padding: 1.25rem;
+    border-left: 4px solid #43e7ad;
+ 
+    & p {
+        color: white;
+    }
+
+& ul {
+    padding-left: 1.5rem;
+    opacity: 0.8;
+}
+
+}
+
 /* Classes */
 
 .loading {
 animation: pulse 1s infinite;
+}
+
+.hidden {
+    display: none;
 }
 
 /* Para animações */

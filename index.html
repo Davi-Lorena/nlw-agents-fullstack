@@ -28,8 +28,9 @@
 
     <select id="gameSelect">
 <option value="">Selecione um jogo</option>
-<option value="valorant">Valorant</option>
 <option value="lol">League of Legends</option>
+<option value="mk">Mortal Kombat</option>
+<option value="rdr">Red Dead Redemption</option>
 <option value="csgo">CS:GO</option>
     </select>
 
@@ -39,14 +40,19 @@
         Perguntar
     </button>
 </form>
-</div>
-      </section>
-      <div id="aiResponse">
+
+<div id="aiResponse" class="hidden">
     <div class="response-content">
 
     </div>
 </div>
+
+</div>
+      </section>
     </main>
+    <!-- Content Delivery Network (CDN) -->
+    <script src="  https://unpkg.com/showdown/dist/showdown.min.js"></script> 
+
 
     <script src="./scripts.js"></script>
   </body>
