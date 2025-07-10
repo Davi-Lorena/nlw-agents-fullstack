@@ -1,4 +1,4 @@
-## 🎮 eSports Meta Assistant - NLW eSports! 🚀
+## 🎮 eSports Meta Assistant - NLW Agents! 🚀
 
 <img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/4ea4722f-c5bb-462e-92b5-1744ed597ca9" />
 
