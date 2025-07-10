@@ -1,6 +1,8 @@
 ## 🎮 eSports Meta Assistant - NLW eSports! 🚀
 
-Bem-vindo ao **eSports Meta Assistant**, um projeto desenvolvido durante a **NLW eSports - 20ª edição da Next Level Week**! 🇧🇷 Esta aplicação web intuitiva foi criada para ajudar você a obter rapidamente informações sobre estratégias, builds e dicas para seus jogos favoritos, utilizando o poder da inteligência artificial do Google Gemini.
+<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/4ea4722f-c5bb-462e-92b5-1744ed597ca9" />
+
+Bem-vindo ao **eSports Meta Assistant**, um projeto desenvolvido durante a **NLW Agents - 20ª edição da Next Level Week**! 🇧🇷 Esta aplicação web intuitiva foi criada para ajudar você a obter rapidamente informações sobre estratégias, builds e dicas para seus jogos favoritos, utilizando o poder da inteligência artificial do Google Gemini.
 
 ### ✨ Sobre o Projeto
 
